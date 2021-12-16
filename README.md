@@ -1,5 +1,11 @@
 # Multi-Node Setup of Hyperledger Fabric Network 2.4 (VMs)
 A Fabric Network of 3 Orderers with Kafka, 2 Organizations, each has 2 peers, deployed on 4 nodes.
+
+Versions:
+Fabric: 2.4
+CA: 1.5.2
+Kafka: latest
+
 ## Node Setup
 Required 4 nodes with following setup:
 
