@@ -15,5 +15,3 @@ Required 4 nodes with following setup:
 | 2 | zookeeper1 | kafka1 | orderer1.example.com | peer1.org1.example.com|cli |
 | 3 | zookeeper2 | kafka2 | orderer2.example.com | peer0.org2.example.com|cli |
 | 4 | | kafka3 | | peer1.org2.example.com |cli|
-
-## Steps
